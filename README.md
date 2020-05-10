@@ -1,4 +1,4 @@
-<img src="./public/screen-app" />
+<img src="https://github.com/juliancioc/go-finances/blob/master/public/screen-app.PNG?raw=true" />
 
 # Este projeto utiliza:
 
